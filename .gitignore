@@ -1,0 +1,11 @@
+
+# eSim release archives and test artifacts (GitHub rejects >100 MB)
+eSim-2.5.zip
+eSim-2.6.zip
+*.tar.xz
+!Ubuntu/nghdl/ghdl-*.tar.gz
+wsl/
+esim-install-*.log
+install-*.log
+__pycache__/
+*.pyc
